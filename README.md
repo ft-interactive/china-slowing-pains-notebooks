@@ -6,3 +6,7 @@ Jupyter notebooks by [David Blood](https://twitter.com/davidcblood) used in the 
 2. [Beeswarm graphic data formatting](https://nbviewer.jupyter.org/github/ft-interactive/china-slowing-pains-notebooks/blob/master/02-beeswarm.ipynb)
 
 Source: [FactSet](https://www.factset.com)
+
+## Published-then-unpublished beeswarm graphic
+
+![beeswarm.png](beeswarm.png)
